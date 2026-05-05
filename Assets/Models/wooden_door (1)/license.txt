@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden Door
+* source:	https://sketchfab.com/3d-models/wooden-door-872263fe766148b08a772ceaa80a7e65
+* author:	Pedro Silva (https://sketchfab.com/pxdrosilva)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden Door" (https://sketchfab.com/3d-models/wooden-door-872263fe766148b08a772ceaa80a7e65) by Pedro Silva (https://sketchfab.com/pxdrosilva) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

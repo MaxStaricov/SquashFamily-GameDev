@@ -1,0 +1,11 @@
+Model Information:
+* title:	clothes hangers
+* source:	https://sketchfab.com/3d-models/clothes-hangers-999d17921fdd4ee7bb9c0901e660c88e
+* author:	Sousinho (https://sketchfab.com/sousinho)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "clothes hangers" (https://sketchfab.com/3d-models/clothes-hangers-999d17921fdd4ee7bb9c0901e660c88e) by Sousinho (https://sketchfab.com/sousinho) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

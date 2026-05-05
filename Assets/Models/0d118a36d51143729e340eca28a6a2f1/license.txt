@@ -1,0 +1,11 @@
+Model Information:
+* title:	Вешалка настенная в прихожей
+* source:	https://sketchfab.com/3d-models/0d118a36d51143729e340eca28a6a2f1
+* author:	rirportal (https://sketchfab.com/social-tech)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Вешалка настенная в прихожей" (https://sketchfab.com/3d-models/0d118a36d51143729e340eca28a6a2f1) by rirportal (https://sketchfab.com/social-tech) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

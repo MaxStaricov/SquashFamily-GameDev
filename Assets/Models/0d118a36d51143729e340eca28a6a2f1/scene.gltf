@@ -1,0 +1,345 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 834,
+      "max": [
+        -2.0735232830047607,
+        9.484114646911621,
+        48.76358413696289
+      ],
+      "min": [
+        -2.8290867805480957,
+        1.637879490852356,
+        -48.7622184753418
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10008,
+      "componentType": 5126,
+      "count": 834,
+      "max": [
+        0.9915631413459778,
+        0.9807851314544678,
+        0.9796426892280579
+      ],
+      "min": [
+        -0.9915629029273987,
+        -0.9807851314544678,
+        -0.9796448945999146
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 834,
+      "max": [
+        13.077669143676758,
+        1.505177617073059
+      ],
+      "min": [
+        -12.077669143676758,
+        -0.5051774978637695
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6672,
+      "componentType": 5126,
+      "count": 834,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2508,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20016,
+      "componentType": 5126,
+      "count": 16340,
+      "max": [
+        -1.6383762564946974e-13,
+        17.64967155456543,
+        48.771427154541016
+      ],
+      "min": [
+        -7.817293167114258,
+        0.0,
+        -48.771427154541016
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 216096,
+      "componentType": 5126,
+      "count": 16340,
+      "max": [
+        1.0,
+        0.9999834299087524,
+        0.9969184994697571
+      ],
+      "min": [
+        -1.0,
+        -0.9967599511146545,
+        -0.9958562850952148
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 13344,
+      "componentType": 5126,
+      "count": 16340,
+      "max": [
+        13.082222938537598,
+        3.6165313720703125
+      ],
+      "min": [
+        -12.082222938537598,
+        -0.9285199642181396
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 144064,
+      "componentType": 5126,
+      "count": 16340,
+      "max": [
+        1.2392594814300537,
+        1.0
+      ],
+      "min": [
+        -0.2392595410346985,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10032,
+      "componentType": 5125,
+      "count": 71364,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "rirportal (https://sketchfab.com/social-tech)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/0d118a36d51143729e340eca28a6a2f1",
+      "title": "Вешалка настенная в прихожей"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 295488,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 274784,
+      "byteOffset": 295488,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 412176,
+      "byteOffset": 570272,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 982448,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "glossinessFactor": 0.7467708587646484,
+          "specularFactor": [
+            0.6905208587646484,
+            0.6905208587646484,
+            0.6905208587646484
+          ]
+        }
+      },
+      "name": "Shade"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "glossinessFactor": 0.9030208587646484,
+          "specularFactor": [
+            0.8405208587646484,
+            0.8405208587646484,
+            0.8405208587646484
+          ]
+        }
+      },
+      "name": "Chrome"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Coat_Hooks_Shade_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Coat_Hooks_Chrome_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.016259917989373207,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.610427066063783e-18,
+        -0.016259917989373207,
+        0.0,
+        0.0,
+        0.016259917989373207,
+        3.610427066063783e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "015e4f46191540bca21a108ab3389fb3.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "Coat_Hooks"
+    },
+    {
+      "mesh": 0,
+      "name": "Coat_Hooks_Shade_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Coat_Hooks_Chrome_1"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

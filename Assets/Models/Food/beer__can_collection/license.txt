@@ -1,0 +1,11 @@
+Model Information:
+* title:	Beer  Can Collection
+* source:	https://sketchfab.com/3d-models/beer-can-collection-d7afa2aa8f8f4a52bd96bb28da2f788b
+* author:	FunctionalResearch_3D (https://sketchfab.com/FunctionalResearch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Beer  Can Collection" (https://sketchfab.com/3d-models/beer-can-collection-d7afa2aa8f8f4a52bd96bb28da2f788b) by FunctionalResearch_3D (https://sketchfab.com/FunctionalResearch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

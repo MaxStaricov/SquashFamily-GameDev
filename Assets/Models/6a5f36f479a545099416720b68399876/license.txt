@@ -1,0 +1,11 @@
+Model Information:
+* title:	Сборка полки №4 Полка х3
+* source:	https://sketchfab.com/3d-models/no4-3-6a5f36f479a545099416720b68399876
+* author:	Astashik_va (https://sketchfab.com/Astashik_va)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Сборка полки №4 Полка х3" (https://sketchfab.com/3d-models/no4-3-6a5f36f479a545099416720b68399876) by Astashik_va (https://sketchfab.com/Astashik_va) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

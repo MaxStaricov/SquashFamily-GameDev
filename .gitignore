@@ -1,0 +1,87 @@
+# === Unity ===
+
+# Папки с библиотеками и кэшем (генерируются автоматически)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Файлы настроек Unity Editor (локальные предпочтения разработчика)
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.sln
+*.userprefs
+*.csproj
+*.unityproj
+*.DS_Store
+
+# Файлы пакетов и зависимостей (если используется Package Manager)
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Если вы используете Addressables или другие системы, создающие локальные кэши
+AddressablesAssetsData/AssetGroups/Schemas/*.bin
+AddressablesAssetsData/AssetGroupTemplates/*.asset
+
+# === Visual Studio / VS Code / Rider ===
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains Rider
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# === macOS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# === Windows ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# === Linux ===
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# === NuGet (если используется)
+packages/
+*.nupkg
+.nuget/
+
+# === Unity Collaborate / Plastic SCM (если используется встроенный VCS, но обычно мы используем Git)
+.plastic/
+plastic.branchexplorer
+
+# === Специфичные файлы, которые часто забывают ===
+
+# Файлы сцен и префабов могут быть большими, но их НУЖНО коммитить.
+# Однако, иногда генерируются временные мета-файлы при сбоях — их можно игнорировать, если они не важны.
+# Но в целом .meta файлы ВАЖНЫ для Unity, поэтому НЕ добавляйте *.meta в ignore!
+
+# Если вы используете Unity Cloud Build или CI/CD, возможно, стоит игнорировать:
+UnityPackageManager/
+
+# Файлы резервных копий, созданные некоторыми редакторами
+*.bak
+*.backup

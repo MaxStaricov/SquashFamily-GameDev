@@ -1,0 +1,11 @@
+Model Information:
+* title:	Russian cigarette pack
+* source:	https://sketchfab.com/3d-models/russian-cigarette-pack-6e319f6faec945feb6f281fd6cccd075
+* author:	SBloatedCat (https://sketchfab.com/SBloatedCat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Russian cigarette pack" (https://sketchfab.com/3d-models/russian-cigarette-pack-6e319f6faec945feb6f281fd6cccd075) by SBloatedCat (https://sketchfab.com/SBloatedCat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

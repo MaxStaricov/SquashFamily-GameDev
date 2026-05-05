@@ -1,0 +1,11 @@
+Model Information:
+* title:	radiator
+* source:	https://sketchfab.com/3d-models/radiator-da6ef158260b49c7858a91682377aa3d
+* author:	Slepskiy (https://sketchfab.com/Slepskiy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "radiator" (https://sketchfab.com/3d-models/radiator-da6ef158260b49c7858a91682377aa3d) by Slepskiy (https://sketchfab.com/Slepskiy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
