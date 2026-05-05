@@ -1,16 +1,15 @@
 # SquashFamily-GameDev
 
-
-<img src="photos/photo0.png.png"/>
-<img src="photos/photo1.png.png"/>
-<img src="photos/photo2.png.png"/>
-<img src="photos/photo3.png.png"/>
-<img src="photos/photo4.png.png"/>
-<img src="photos/photo5.png.png"/>
-<img src="photos/photo6.png.png"/>
-<img src="photos/photo7.png.png"/>
-<img src="photos/photo8.png.png"/>
-<img src="photos/photo9.png.png"/>
+<img src="/photos/photo0.png.png"/>
+<img src="/photos/photo1.png.png"/>
+<img src="/photos/photo2.png.png"/>
+<img src="/photos/photo3.png.png"/>
+<img src="/photos/photo4.png.png"/>
+<img src="/photos/photo5.png.png"/>
+<img src="/photos/photo6.png.png"/>
+<img src="/photos/photo7.png.png"/>
+<img src="/photos/photo8.png.png"/>
+<img src="/photos/photo9.png.png"/>
 
 Задача - "Сделайте игру" (прямая цитата).
 
